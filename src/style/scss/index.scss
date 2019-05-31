@@ -1,0 +1,18 @@
+@font-face {
+  font-family: _PingFang;
+  //src: url('/static/fonts/DISPLAY FREE TFB.ttf');
+  src: url("~@/assets/fonts/PingFang-SC-Regular.ttf");
+}
+.t2 {
+  line-height: 20px;
+  font-size: 14px;
+  font-weight: bolder;
+  background-color: yellow;
+  font-family: _PingFang;
+}
+.imgbox {
+  width: 100px;
+  height: 100px;
+  background-color: hotpink;
+  background: url("~@/assets/images/test.png");
+}
